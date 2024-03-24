@@ -1,18 +1,38 @@
 #include <stdio.h>
 #include <string.h>
-void main()
-{
-    int n, i;
-    char str[100];
-    scanf("%d",&n);
 
-    for (i = 0; i < n; i++)
+int main()  // in codeforces mustbe use int in main function
+{
+    int n, i = 0;
+    char s[4];
+
+    scanf("%d", &n);
+
+    while (i < n)
     {
-        printf("input\n");
-        gets(str);
-        if (strlen(str) > 10)
-            printf("%c%d%c\n", str[0], strlen(str) - 2, str[strlen(str) - 1]);
+        scanf("%s", s);
+
+        int result = 0;
+
+        if (s[0] == 'Y' || s[0] == 'y')
+        {
+            result++;
+        }
+        if (s[1] == 'E' || s[1] == 'e')
+        {
+            result++;
+        }
+        if (s[2] == 'S' || s[2] == 's')
+        {
+            result++;
+        }
+
+        if (result == 3)
+            printf("YES\n");
         else
-            printf("%s\n", str);
+            printf("NO\n");
+
+        i++;
     }
+    return 0;
 }
