@@ -1,3 +1,7 @@
+# sheet #1
+# problem: F
+# title: Digits Summation
+
 # Given two numbers M and N.
 # Print the summation of their last digits.
 

@@ -1,3 +1,6 @@
+// problem: 4A
+// name: Watermelon
+
 #include<stdio.h>
 int main()
 {

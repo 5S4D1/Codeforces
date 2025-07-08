@@ -1,3 +1,6 @@
+// problem: 158A
+// name: Next Round
+
 #include<stdio.h>
 int main(){
     int n, k, count = 0;

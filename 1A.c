@@ -1,3 +1,6 @@
+// problem: 1A
+// name: Theatre Square
+
 #include <stdio.h>
 void main()
 {

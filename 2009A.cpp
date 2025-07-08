@@ -1,3 +1,6 @@
+// problem: 2009A
+// name: Minimize!
+
 #include <iostream>
 using namespace std;
 

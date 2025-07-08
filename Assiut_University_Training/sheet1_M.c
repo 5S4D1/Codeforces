@@ -1,3 +1,7 @@
+// sheet #1
+// problem: M
+// title: Capital or Small or Digit
+
 #include <stdio.h>
 int main()
 {

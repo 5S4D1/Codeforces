@@ -1,3 +1,7 @@
+// sheet #1
+// problem: J
+// title: Multiples
+
 #include <bits/stdc++.h>
 using namespace std;
 

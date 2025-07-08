@@ -1,3 +1,7 @@
+// sheet #2
+// problem: L
+// title: GCD
+
 #include<iostream>
 using namespace std;
 int main()

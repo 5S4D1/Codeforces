@@ -1,3 +1,7 @@
+// sheet #2
+// problem: Y
+// title: Easy Fibonacci
+
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,7 @@
+// contest #1
+// problem: A
+// title: Winter Sale
+
 #include <bits/stdc++.h>
 using namespace std;
 

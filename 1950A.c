@@ -1,3 +1,6 @@
+// problem: 1950A
+// name: Stair, Peak, or Neither?
+
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,6 @@
+// problem: 228A
+// name: Is your horseshoe on the other hoof?
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()

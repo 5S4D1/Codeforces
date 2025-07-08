@@ -1,3 +1,6 @@
+// name: YES or YES?
+// problem: 1703A
+
 #include <stdio.h>
 #include <string.h>
 

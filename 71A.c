@@ -1,3 +1,6 @@
+// name: Way Too Long Words
+// problem: 71A
+
 #include <stdio.h>
 #include<string.h>
 void main()

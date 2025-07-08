@@ -1,3 +1,6 @@
+// problem: 546A
+// name: Soldier and Bananas
+
 #include <stdio.h>
 void main()
 {

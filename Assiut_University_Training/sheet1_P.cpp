@@ -1,3 +1,7 @@
+// sheet #1
+// problem: P
+// title: First Digit !
+
 #include <bits/stdc++.h>
 using namespace std;
 

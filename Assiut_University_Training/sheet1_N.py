@@ -1,3 +1,7 @@
+# sheet #1
+# problem: N
+# title: Char
+
 def main():
     x = input()
     if x == x.upper():

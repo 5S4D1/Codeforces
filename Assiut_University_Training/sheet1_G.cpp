@@ -1,3 +1,7 @@
+// sheet #1
+// problem: G
+// title: Sum from 1 to N
+
 #include <bits/stdc++.h>
 using namespace std;
 

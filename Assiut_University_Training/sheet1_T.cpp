@@ -1,3 +1,7 @@
+// sheet #1
+// problem: T
+// title: Sort Numbers
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,6 @@
+// problem: 617A
+// name: Elephant
+
 #include<stdio.h>
 #include<math.h>
 void main()

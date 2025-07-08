@@ -1,3 +1,6 @@
+// problem: 1858A
+// name: Buttons
+
 #include <stdio.h>
 void main()
 {
