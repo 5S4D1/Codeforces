@@ -1,3 +1,6 @@
+// problem: 2014A
+// name: Robin Helps
+
 #include <iostream>
 using namespace std;
 

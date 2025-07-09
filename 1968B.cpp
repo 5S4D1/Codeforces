@@ -1,3 +1,6 @@
+// problem: 1968B
+// name: Prefiquence
+
 #include <iostream>
 #include <string>
 #include <algorithm>

@@ -1,3 +1,6 @@
+// problem: 2072A
+// name: New World, New Me, New Array
+
 #include <iostream>
 #include <cmath>
 

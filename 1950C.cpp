@@ -1,3 +1,6 @@
+// problem: 1950C
+// name: Clock Conversion
+
 #include <bits/stdc++.h>
 using namespace std;
 

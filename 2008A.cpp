@@ -1,3 +1,6 @@
+// problem: 2008A
+// name: Sakurako's Exam
+
 #include <iostream>
 
 using namespace std;

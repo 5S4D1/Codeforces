@@ -1,3 +1,6 @@
+// problem: 1968A
+// name: Maximize?
+
 #include <iostream>
 using namespace std;
 
