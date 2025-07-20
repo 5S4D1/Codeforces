@@ -10,14 +10,14 @@ int main()
     char s;
     int n;
     cin >> s >> n;
-    int arr[n];
 
     for (int i = 0; i < n; i++)
     {
-        cin >> arr[i];
-    }
-    for (int i=0; i < n; i++){
-        for(int j = 0; j < arr[i]; j++){
+        int num;
+        cin >> num;
+
+        for (int j = 0; j < num; j++)
+        {
             cout << s;
         }
         cout << endl;

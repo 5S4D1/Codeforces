@@ -9,16 +9,12 @@ int main()
 {
     int n;
     cin >> n;
-    long long arr[n];
-    
-    for (int i = 0; i < n; i++)
-    {
-        cin >> arr[i];
-    }
 
     for (int i = 0; i < n; i++)
     {
-        int num = arr[i];
+        int num;
+        cin >> num;
+
         if (num == 0)
             cout << "0";
 
