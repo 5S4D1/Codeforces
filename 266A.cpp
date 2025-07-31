@@ -1,5 +1,5 @@
 // problem: 266A
-// name: Stones on the Table
+// title: Stones on the Table
 
 #include <bits/stdc++.h>
 using namespace std;

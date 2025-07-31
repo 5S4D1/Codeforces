@@ -1,5 +1,5 @@
 // problem: 263A
-// name: Beautiful Matrix
+// title: Beautiful Matrix
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 // problem: 69A
-// name: Young Physicist
+// title: Young Physicist
 
 #include <iostream>
 using namespace std;

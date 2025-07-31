@@ -1,5 +1,5 @@
 // problem: 339A
-// name: Helpful Maths
+// title: Helpful Maths
 
 #include <bits/stdc++.h>
 using namespace std;

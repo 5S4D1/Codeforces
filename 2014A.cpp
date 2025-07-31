@@ -1,5 +1,5 @@
 // problem: 2014A
-// name: Robin Helps
+// title: Robin Helps
 
 #include <iostream>
 using namespace std;

@@ -1,5 +1,5 @@
 // problem: 4A
-// name: Watermelon
+// title: Watermelon
 
 #include<stdio.h>
 int main()

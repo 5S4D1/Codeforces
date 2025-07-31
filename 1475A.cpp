@@ -1,5 +1,5 @@
 // problem: 1475A
-// name: Odd Divisor
+// title: Odd Divisor
 
 #include <bits/stdc++.h>
 using namespace std;

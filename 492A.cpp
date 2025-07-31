@@ -1,5 +1,5 @@
 // problem: 492A
-// name: Vanya and Cubes
+// title: Vanya and Cubes
 
 #include <bits/stdc++.h>
 using namespace std;

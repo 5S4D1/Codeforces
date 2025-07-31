@@ -1,5 +1,5 @@
 // problem: 59A
-// name: Word
+// title: Word
 
 #include <bits/stdc++.h>
 using namespace std;

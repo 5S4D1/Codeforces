@@ -1,5 +1,5 @@
 // problem: 466A
-// name: Cheap Travel
+// title: Cheap Travel
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,7 +20,7 @@ int main()
 
         int totalCost1 = (fullRides * b) + (remainingRides * a);
         int totalCost2 = ((fullRides + 1) * b);
-        
+
         totalCost = min(totalCost1, totalCost2);
     }
 

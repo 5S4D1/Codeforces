@@ -1,5 +1,5 @@
 // problem: 112A
-// name: Petya and Strings
+// title: Petya and Strings
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 // problem: 1968A
-// name: Maximize?
+// title: Maximize?
 
 #include <iostream>
 using namespace std;

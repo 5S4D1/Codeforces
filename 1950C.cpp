@@ -1,5 +1,5 @@
 // problem: 1950C
-// name: Clock Conversion
+// title: Clock Conversion
 
 #include <bits/stdc++.h>
 using namespace std;

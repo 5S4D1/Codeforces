@@ -1,5 +1,5 @@
 // problem: 1999A
-// name: A+B Again?
+// title: A+B Again?
 
 #include <bits/stdc++.h>
 using namespace std;

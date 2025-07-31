@@ -1,5 +1,5 @@
 // problem: 1915A
-// name: Odd One Out
+// title: Odd One Out
 
 #include <bits/stdc++.h>
 using namespace std;

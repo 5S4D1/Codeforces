@@ -1,5 +1,5 @@
 // problem: 758A
-// name: Holiday Of Equality
+// title: Holiday Of Equality
 
 #include <bits/stdc++.h>
 using namespace std;

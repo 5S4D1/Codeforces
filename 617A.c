@@ -1,5 +1,5 @@
 // problem: 617A
-// name: Elephant
+// title: Elephant
 
 #include<stdio.h>
 #include<math.h>

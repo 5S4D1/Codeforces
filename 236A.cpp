@@ -1,5 +1,5 @@
 // problem: 236A
-// name: Boy or Girl
+// title: Boy or Girl
 
 #include <bits/stdc++.h>
 using namespace std;

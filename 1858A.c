@@ -1,5 +1,5 @@
 // problem: 1858A
-// name: Buttons
+// title: Buttons
 
 #include <stdio.h>
 void main()

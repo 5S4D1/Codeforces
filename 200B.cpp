@@ -1,5 +1,5 @@
 // problem: 200B
-// name: Drinks
+// title: Drinks
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 // problem: 1A
-// name: Theatre Square
+// title: Theatre Square
 
 #include <stdio.h>
 void main()

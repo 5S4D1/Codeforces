@@ -1,5 +1,5 @@
 // problem: 50A
-// name: Domino piling
+// title: Domino piling
 
 #include <bits/stdc++.h>
 using namespace std;

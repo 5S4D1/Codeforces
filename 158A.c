@@ -1,5 +1,5 @@
 // problem: 158A
-// name: Next Round
+// title: Next Round
 
 #include<stdio.h>
 int main(){

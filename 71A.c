@@ -1,5 +1,5 @@
-// name: Way Too Long Words
 // problem: 71A
+// title: Way Too Long Words
 
 #include <stdio.h>
 #include<string.h>

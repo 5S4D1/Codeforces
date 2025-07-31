@@ -1,5 +1,5 @@
 // problem: 1968B
-// name: Prefiquence
+// title: Prefiquence
 
 #include <iostream>
 #include <string>

@@ -1,5 +1,5 @@
-// name: YES or YES?
 // problem: 1703A
+// title: YES or YES?
 
 #include <stdio.h>
 #include <string.h>

@@ -1,5 +1,5 @@
 // problem: 602A
-// name: Two Bases
+// title: Two Bases
 
 #include <bits/stdc++.h>
 using namespace std;

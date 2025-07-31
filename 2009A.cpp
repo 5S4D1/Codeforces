@@ -1,5 +1,5 @@
 // problem: 2009A
-// name: Minimize!
+// title: Minimize!
 
 #include <iostream>
 using namespace std;

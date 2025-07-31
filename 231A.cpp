@@ -1,5 +1,5 @@
 // problem: 231A
-// name: Team
+// title: Team
 
 #include <bits/stdc++.h>
 using namespace std;

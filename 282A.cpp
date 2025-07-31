@@ -1,5 +1,5 @@
 // problem: 282A
-// name: Bit++
+// title: Bit++
 
 #include <bits/stdc++.h>
 using namespace std;

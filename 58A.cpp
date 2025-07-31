@@ -1,5 +1,5 @@
 // problem: 58A
-// name: Chat Room
+// title: Chat Room
 
 #include <bits/stdc++.h>
 using namespace std;

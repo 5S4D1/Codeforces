@@ -1,5 +1,5 @@
 // problem: 281A
-// name: Word Capitalization
+// title: Word Capitalization
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 // problem: 1669A
-// name: Division?
+// title: Division?
 
 #include <bits/stdc++.h>
 using namespace std;

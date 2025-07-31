@@ -1,5 +1,5 @@
 // problem: 1619A
-// name: Square String?
+// title: Square String?
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 // problem: 791A
-// name: Bear and Big Brother
+// title: Bear and Big Brother
 
 #include <bits/stdc++.h>
 using namespace std;

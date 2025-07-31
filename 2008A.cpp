@@ -1,5 +1,5 @@
 // problem: 2008A
-// name: Sakurako's Exam
+// title: Sakurako's Exam
 
 #include <iostream>
 
