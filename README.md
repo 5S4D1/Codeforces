@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://codeforces.com/profile/sheikhsadi86">
+    <img src="https://cf.leed.at?id=sheikhsadi86" alt="Codeforces Stats">
+  </a>
+</p>
+
 # Codeforces Solutions
 
 This repository contains solutions to a wide range of problems from [Codeforces](https://codeforces.com), one of the most popular competitive programming platforms. The solutions are implemented mainly in **C++**, with some problems solved in **C** and **Python**.
