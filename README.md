@@ -8,13 +8,14 @@
 
 This repository contains solutions to a wide range of problems from [Codeforces](https://codeforces.com), one of the most popular competitive programming platforms. The solutions are implemented mainly in **C++**, with some problems solved in **C** and **Python**.
 
-## Contents
 
-- 📁 Individual problem solution files are named after the problem IDs (e.g. `1A.c`, `4C.cpp`, etc.).
-- 📁 Some folders, such as [`Assiut_University_Training`](https://github.com/5S4D1/Codeforces/tree/main/Assiut_University_Training), may contain themed problem sets or training camp solutions.
-- 📝 Solutions cover a broad set of Codeforces contests and problem difficulties.
+## Repository Structure
 
-**Note:** This list is automatically truncated by the GitHub API and may not show all files. For the complete and up-to-date contents, please [browse the repository on GitHub](https://github.com/5S4D1/Codeforces/tree/main).
+- 📁 **Difficulty_A/**, **Difficulty_B/**, **Difficulty_C/**: Problems are now organized into folders based on their Codeforces difficulty level (A, B, C). Each folder contains solution files named after the problem IDs (e.g., `1A.c`, `230B.cpp`, `1950C.cpp`).
+- 📁 **Assiut_University_Training/**: Themed problem sets or training camp solutions.
+- 📝 This structure makes it easier to browse and find problems by their difficulty.
+
+**Note:** For the complete and up-to-date contents, please [browse the repository on GitHub](https://github.com/5S4D1/Codeforces/tree/main).
 
 ## Languages Used
 
